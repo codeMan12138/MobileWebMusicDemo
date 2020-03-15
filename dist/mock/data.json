@@ -1,0 +1,29 @@
+[
+    {
+        "image":"/source/images/1.jpg",
+        "audio":"/source/mp3/1.mp3",
+        "song":"有点甜",
+        "album":"万有引力",
+        "singer":"汪苏泷",
+        "duration":235,
+        "isLike":true
+    },
+    {
+        "image":"/source/images/2.jpg",
+        "audio":"/source/mp3/2.mp3",
+        "song":"木偶人",
+        "album":"尘",
+        "singer":"薛之谦",
+        "duration":286,
+        "isLike":true
+    },
+    {
+        "image":"/source/images/3.jpg",
+        "audio":"/source/mp3/3.mp3",
+        "song":"梦回还",
+        "album":"狐妖小红娘",
+        "singer":"呦猫UNEKO",
+        "duration":250,
+        "isLike":true
+    }
+]
